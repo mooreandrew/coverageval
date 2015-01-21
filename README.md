@@ -17,7 +17,7 @@ coverageval coverage.xml 0.9
 
 # Coverage file format
 
-The only currently support coverage file is:
+The only currently supported coverage file is:
 
 ```
 <?xml version="1.0" ?>

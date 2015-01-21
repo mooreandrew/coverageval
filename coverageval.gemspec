@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
     'https://github.com/mooreandrew/coverageval'
   s.license       = 'MIT'
   s.add_dependency 'nokogiri', '>= 1.3.15'
-  s.files            = ["lib/coverageval.rb"]
+  s.files            = ["lib/coverageval.rb", "README.md", "LICENSE"]
   s.executables      = ["coverageval"]
   s.require_path     = "lib"
 end
